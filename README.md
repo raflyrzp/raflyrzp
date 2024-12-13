@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying at **State University of Jakarta**
  
- 🌱 I’m currently learning **Golang, Dlang, Django**
+ 🌱 I’m currently learning **Golang, Dlang**
 
 💻 **"Innovating, Developing, Caffeinating"**
 
@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,php" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,java,nextjs,mysql,laravel" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,mysql,laravel" /><br>
 </div>
 
 <br/>
