@@ -56,7 +56,13 @@
 <br/>
 
 <div align="center">
-[Buy Me a Coffee](https://i.imgur.com/SaM0h4X.png)](https://saweria.co/raflyrzp)
+<a href="https://saweria.co/raflyrzp" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/☕️-Donasi%20via%20Saweria-orange?style=for-the-badge" 
+    alt="Donasi via Saweria" 
+    style="border:0;"/>
+</a>
+
 
 
 </div>
