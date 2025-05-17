@@ -93,11 +93,12 @@
 <div align="center">
 <a href="https://saweria.co/raflyrzp" target="_blank" rel="noopener" style="text-decoration:none;">
   <img
-    src="https://img.shields.io/badge/☕️%20Buy%20Me%20a%20Coffee-8A2BE2?style=for-the-badge&logo=coffeescript"
+    src="https://img.shields.io/badge/☕️%20Buy%20Me%20a%20Coffee-b399f4?style=for-the-badge&logo=coffeescript&logoColor=white"
     alt="Buy Me a Coffee"
-    style="border:0; filter: drop-shadow(2px 4px 5px rgba(0,0,0,0.25));"
+    style="border:0; filter: drop-shadow(2px 4px 6px rgba(179, 153, 244, 0.6));"
   />
 </a>
+
 
 
 </div>
