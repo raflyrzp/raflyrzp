@@ -56,23 +56,8 @@
 <br/>
 
 <div align="center">
-<a href="https://saweria.co/raflyrzp" target="_blank" style="text-decoration: none;">
-  <button style="
-    display: inline-block;
-    background: linear-gradient(135deg, #FF8A65 0%, #FFCC80 100%);
-    border: none;
-    padding: 14px 28px;
-    border-radius: 20px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-    font-size: 18px;
-    font-weight: 600;
-    color: #FFFFFF;
-    cursor: pointer;
-    transition: transform 0.2s, box-shadow 0.2s;
-  " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 14px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.15)';">
-    ☕️ Buy Me Some Caffeine
-  </button>
-</a>
+[![Buy Me a Coffee](https://i.imgur.com/SaM0h4X.png)](https://saweria.co/raflyrzp)
+
 
 </div>
 
