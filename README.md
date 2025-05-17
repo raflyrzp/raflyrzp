@@ -44,12 +44,8 @@
 <div align=center>
     <img width=500px align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=raflyrzp&theme=catppuccin-mocha&count_private=true" alt="streak stats"/>
     <br>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raflyrzp" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 margin-top=50 align="center" src="https://github-readme-stats.vercel.app/api?username=raflyrzp" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raflyrzp&layout=compact&langs_count=8&card_width=320" />
-</a>
      <img width=390 src="https://github-readme-stats.vercel.app/api/wakatime?username=raflyrzp?theme=catppuccin_mocha&rank_icon=percentile&border_radius=10" alt="wakatime stats" />
 </div>
 
