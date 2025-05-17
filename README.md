@@ -56,9 +56,10 @@
 <br/>
 
 <div align="center">
-[![Buy Me a Coffee](https://i.imgur.com/SaM0h4X.png)](https://saweria.co/raflyrzp)
+[Buy Me a Coffee](https://i.imgur.com/SaM0h4X.png)](https://saweria.co/raflyrzp)
 
 
 </div>
 
 <br/>
+![Animasi ular]( https://github.com/raflyrzp/raflyrzp/blob/output/github-contribution-grid-snake.svg )
