@@ -9,8 +9,9 @@
 <br />
 
 <div align="center">
-  🔭 I’m currently studying at **State University of Jakarta** 🌱 I’m currently
-  learning **Golang, Python** 💻 **"Innovating, Developing, Caffeinating"**
+  🔭 I’m currently studying at **State University of Jakarta** 
+  🌱 I’m currently learning **Golang, Python** 
+  💻 **"Innovating, Developing, Caffeinating"**
 </div>
 
 <div align="center">
@@ -95,14 +96,6 @@
     />
   </picture>
 </div>
-
-<br />
-
-<div align="center">
-  <img
-    align="right"
-    src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07"
-  />
 
 <br />
 
