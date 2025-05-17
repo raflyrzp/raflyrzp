@@ -41,8 +41,8 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center width=80vw>
-    <img width=100% align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=raflyrzp&theme=catppuccin-mocha&count_private=true" alt="streak stats"/>
+<div align=center>
+    <img width=80% align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=raflyrzp&theme=catppuccin-mocha&count_private=true" alt="streak stats"/>
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raflyrzp" />
 </a>
