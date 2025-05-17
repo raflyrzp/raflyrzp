@@ -56,7 +56,10 @@
 <br/>
 
 <div align="center">
-<a href='https://saweria.co/raflyrzp' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me Some Caffeine' /></a>
+<a href="https://saweria.co/raflyrzp" target="_blank">
+  <img height="64" src="https://raw.githubusercontent.com/arfianr/saweria-button/main/saweria-logo.png" alt="Saweria Logo" style="border:0px;height:64px;" />
+</a>
+
 </div>
 
 <br/>
