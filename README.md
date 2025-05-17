@@ -56,12 +56,14 @@
 <br/>
 
 <div align="center">
-<a href="https://saweria.co/raflyrzp" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/☕️-Donasi%20via%20Saweria-orange?style=for-the-badge" 
-    alt="Donasi via Saweria" 
-    style="border:0;"/>
+<a href="https://saweria.co/raflyrzp" target="_blank" rel="noopener">
+  <img
+    src="https://img.shields.io/badge/☕%20Support%20Me%20on%20Saweria-Visit%20Now-purple?style=for-the-badge&logo=coffeescript"
+    alt="Support Me on Saweria"
+    style="border:0; filter: drop-shadow(2px 4px 6px rgba(0,0,0,0.2));"
+  />
 </a>
+
 
 
 
