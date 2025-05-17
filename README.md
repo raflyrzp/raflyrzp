@@ -9,9 +9,9 @@
 <br />
 
 <div align="center">
-  🔭 I’m currently studying at **State University of Jakarta** 
-  🌱 I’m currently learning **Golang, Python** 
-  💻 **"Innovating, Developing, Caffeinating"**
+  🔭 I’m currently studying at **State University of Jakarta**\n
+  🌱 I’m currently learning **Golang, Python**\n
+  💻 **"Innovating, Developing, Caffeinating"**\n
 </div>
 
 <div align="center">
