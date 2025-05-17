@@ -47,7 +47,7 @@
     <br>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raflyrzp&theme=catppuccin_mocha" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raflyrzp&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha" />
-     <img width=390 src="https://github-readme-stats.vercel.app/api/wakatime?username=raflyrzp?theme=catppuccin_mocha&rank_icon=percentile&border_radius=10" alt="wakatime stats" />
+     <img width=390 src="https://github-readme-stats.vercel.app/api/wakatime?username=raflyrzp&theme=catppuccin_mocha&rank_icon=percentile&border_radius=10" alt="wakatime stats" />
 </div>
 
 <br/><br/>
