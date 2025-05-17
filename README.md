@@ -43,6 +43,7 @@
 <br>
 <div align=center>
     <img width=500px align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=raflyrzp&theme=catppuccin-mocha&count_private=true" alt="streak stats"/>
+    <br>
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raflyrzp" />
 </a>
