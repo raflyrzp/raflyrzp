@@ -37,14 +37,14 @@
 
 <hr />
 
-<h2 align="center">⚒️ Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stacks ⚒️</h2>
 <br />
 <div align="center">
   <img
     src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,php"
   />
   <img
-    src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,mysql,laravel"
+    src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,nextjs,mongodb,mysql,laravel"
   /><br />
 </div>
 
