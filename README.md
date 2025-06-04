@@ -44,7 +44,7 @@
     src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,php"
   />
   <img
-    src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,nextjs,mongodb,mysql,laravel"
+    src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,nextjs,mongodb,mysql,laravel"
   /><br />
 </div>
 
