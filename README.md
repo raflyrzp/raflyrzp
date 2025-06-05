@@ -65,7 +65,7 @@
   <img
     height="200"
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=raflyrzp&theme=catppuccin_mocha&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=raflyrzp&theme=catppuccin_mocha"
   />
   <img
     height="200"
