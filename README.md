@@ -25,7 +25,7 @@
     />
   </a>
   <a
-    href="https://www.linkedin.com/in/rafly-rabbany-zalfa-pateda-775995324/"
+    href="https://www.linkedin.com/in/rafly-rabbany-zalfa-pateda"
     target="_blank"
   >
     <img
