@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  🔭 I’m currently studying at **State University of Jakarta**
+ 🎓 Computer Science Student at **State University of Jakarta**
   
   🌱 I’m currently learning **Golang, Python**
   
