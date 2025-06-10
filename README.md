@@ -40,12 +40,23 @@
 <h2 align="center">⚒️ Tech Stacks ⚒️</h2>
 <br />
 <div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,php"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,nextjs,mongodb,mysql,laravel,codeigniter"
-  /><br />
+
+  <!-- Frontend -->
+  <h3>🖼️ Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,html,css,javascript,typescript" /><br /><br />
+
+  <!-- Backend -->
+  <h3>🔧 Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python" /><br /><br />
+
+  <!-- Database -->
+  <h3>💾 Database</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br /><br />
+
+  <!-- Tools & Others -->
+  <h3>🛠️ Tools & Others</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" /><br />
+
 </div>
 
 <br />
