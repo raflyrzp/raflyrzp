@@ -54,7 +54,7 @@
 
   <!-- Tools & Others -->
   <h3>🛠️ Tools & Others</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" /><br />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman" /><br />
 
 </div>
 
