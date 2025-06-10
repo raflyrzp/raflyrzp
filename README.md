@@ -41,19 +41,19 @@
 <div align="center">
 
   <!-- Frontend -->
-  <h3>🖼️ Frontend</h3>
+  <h3>🖼️ Frontend 🖼️</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,html,css,javascript,typescript" /><br />
 
   <!-- Backend -->
-  <h3>🔧 Backend</h3>
+  <h3>🔧 Backend 🔧</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python" /><br />
 
   <!-- Database -->
-  <h3>💾 Database</h3>
+  <h3>💾 Database 💾</h3>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br />
 
   <!-- Tools & Others -->
-  <h3>🛠️ Tools & Others</h3>
+  <h3>🛠️ Tools & Other 🛠️</h3>
   <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman" /><br />
 
 </div>
