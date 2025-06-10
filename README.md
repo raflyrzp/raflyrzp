@@ -43,15 +43,15 @@
 
   <!-- Frontend -->
   <h3>🖼️ Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,html,css,javascript,typescript" /><br /><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,html,css,javascript,typescript" /><br />
 
   <!-- Backend -->
   <h3>🔧 Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python" /><br /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python" /><br />
 
   <!-- Database -->
   <h3>💾 Database</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br /><br />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br />
 
   <!-- Tools & Others -->
   <h3>🛠️ Tools & Others</h3>
