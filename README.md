@@ -50,7 +50,7 @@
 
   <!-- Database -->
   <h3>💾 Database 💾</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgre" /><br />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" /><br />
 
   <!-- Tools & Others -->
   <h3>🛠️ Tools 🛠️</h3>
