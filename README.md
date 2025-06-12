@@ -53,7 +53,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br />
 
   <!-- Tools & Others -->
-  <h3>🛠️ Tools & Other 🛠️</h3>
+  <h3>🛠️ Tools 🛠️</h3>
   <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman" /><br />
 
 </div>
