@@ -46,7 +46,7 @@
 
   <!-- Backend -->
   <h3>🔧 Backend 🔧</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python" /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django" /><br />
 
   <!-- Database -->
   <h3>💾 Database 💾</h3>
