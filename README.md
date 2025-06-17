@@ -16,7 +16,7 @@
 
   🌐 Always excited to **collaborate, learn, and create meaningful tech solutions**
   
-  💻 **"Innovating, Developing, Caffeinating"**
+  **"Innovating, Developing, Caffeinating"**
   
 </div>
 
