@@ -48,7 +48,7 @@
   <h3>🔧 Backend 🔧</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django" /><br />
 
-  <h3>💾 Databases 💾</h3>
+  <h3>💾 Database 💾</h3>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" /><br />
 
   <h3>🛠️ Tools 🛠️</h3>
