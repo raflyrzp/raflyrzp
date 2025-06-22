@@ -4,7 +4,7 @@
   />
 </h1>
 
-<h3 align="center">A passionate Website Developer</h3>
+<h3 align="center">a passionate Website Developer</h3>
 
 <br />
 
