@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" /><br />
 
   <h3>🛠️ Tools 🛠️</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,postman" /><br />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman" /><br />
 
 </div>
 
