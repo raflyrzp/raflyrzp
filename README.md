@@ -12,7 +12,7 @@
   
  🎓 Computer Science Student at **State University of Jakarta**
   
-  🌱 I’m currently learning **Python, Golang**
+  🌱 I’m currently learning **Python**
 
   🌐 Always excited to **collaborate, learn, and create meaningful tech solutions**
   
