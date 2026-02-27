@@ -19,9 +19,6 @@
 🌍 Wanna see what I’ve built?  
  👉 <a href="https://raflyrzp.vercel.app/" target="_blank"><b>Check out my portfolio here</b></a>
   
- <br/>
- <b>"Innovating, Developing, Caffeinating"</b>
-  
 </div>
 
 <br/>
