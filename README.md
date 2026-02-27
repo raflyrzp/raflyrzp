@@ -10,15 +10,23 @@
 
 <div align="center">
   
- 🎓 Computer Science Student at **State University of Jakarta**
+ 🎓 Computer Science Student at <b>State University of Jakarta</b>
   
-  🌱 I’m currently learning **Python**
+ 🌱 I’m currently learning <b>Python</b>
 
-  🌐 Always excited to **collaborate, learn, and create meaningful tech solutions**
+ 🌐 Always excited to <b>collaborate, learn, and create meaningful tech solutions</b>
   
-  **"Innovating, Developing, Caffeinating"**
+ 💼 <b>Portfolio:</b>  
+ <a href="https://raflyrzp.vercel.app/" target="_blank">
+   https://raflyrzp.vercel.app/
+ </a>
+  
+ <br/><br/>
+ <b>"Innovating, Developing, Caffeinating"</b>
   
 </div>
+
+<br/>
 
 <div align="center">
   <a href="mailto:raflyrabbany0804@gmail.com">
@@ -32,7 +40,14 @@
   >
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"
+    />
+  </a>
+  <a
+    href="https://raflyrzp.vercel.app/"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
     />
   </a>
 </div>
