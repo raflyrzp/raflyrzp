@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raflyrzp&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/raflyrzp?tab=followers">
-    <img src="https://img.shields.io/github/followers/raflyrzp?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+    <img src="https://img.shields.io/github/followers/raflyrzp?style=for-the-badge&labelColor=1e1e2e&color=89b4fa" alt="followers" />
   </a>
 </p>
 
