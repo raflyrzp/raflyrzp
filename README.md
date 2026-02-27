@@ -16,10 +16,8 @@
 
  🌐 Always excited to <b>collaborate, learn, and create meaningful tech solutions</b>
   
- 💼 <b>Portfolio:</b>  
- <a href="https://raflyrzp.vercel.app/" target="_blank">
-   https://raflyrzp.vercel.app/
- </a>
+🌍 Wanna see what I’ve built?  
+ 👉 <a href="https://raflyrzp.vercel.app/" target="_blank"><b>Check out my portfolio here</b></a>
   
  <br/><br/>
  <b>"Innovating, Developing, Caffeinating"</b>
