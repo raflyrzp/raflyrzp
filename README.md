@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rafly%20Rabbany%20Z.P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=raflyrzp&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <div align="center">
   <img
@@ -55,48 +55,20 @@
 
 <!-- TECH STACKS -->
 <h2 align="center">⚒️ Tech Stacks ⚒️</h2>
-<br />
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="250"><h3>🖼️ Frontend</h3></td>
-      <td align="center" width="250"><h3>🔧 Backend</h3></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&perline=4" /><br />
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript&perline=4" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&perline=4" /><br />
-        <img src="https://skillicons.dev/icons?i=python,django&perline=4" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><h3>💾 Database</h3></td>
-      <td align="center"><h3>🛠️ Tools</h3></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite&perline=4" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,github,git,figma&perline=4" /><br />
-        <img src="https://skillicons.dev/icons?i=postman&perline=4" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-<br />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<br />
+  <h3>🖼️ Frontend 🖼️</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,html,css,javascript,typescript" /><br />
 
-<!-- GITHUB TROPHIES -->
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<br />
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raflyrzp&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <h3>🔧 Backend 🔧</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django" /><br />
+
+  <h3>💾 Database 💾</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" /><br />
+
+  <h3>🛠️ Tools 🛠️</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman" /><br />
+
 </div>
 
 <br />
@@ -104,26 +76,28 @@
 <br />
 
 <!-- STATS -->
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <div align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=raflyrzp&show_icons=true&theme=catppuccin_mocha&rank_icon=github&hide_border=true&count_private=true"
+    width="500px"
+    align="center"
+    src="https://github-readme-streak-stats-salesp07.vercel.app?user=raflyrzp&theme=catppuccin-mocha&count_private=true"
+    alt="streak stats"
+  />
+  <br />
+  <br />
+  <img
+    height="200"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=raflyrzp&theme=catppuccin_mocha&rank_icon=github"
   />
   <img
-    width="49%"
-    src="https://github-readme-streak-stats-salesp07.vercel.app?user=raflyrzp&theme=catppuccin-mocha&hide_border=true&count_private=true"
+    height="200"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=raflyrzp&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha"
   />
 </div>
-<br />
-<div align="center">
-  <img
-    width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=raflyrzp&layout=compact&langs_count=8&theme=catppuccin_mocha&hide_border=true"
-  />
-</div>
-
 <br />
 
 <!-- ACTIVITY GRAPH -->
